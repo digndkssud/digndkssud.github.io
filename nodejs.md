@@ -10,3 +10,14 @@
 더욱 전문적으로 프론트 엔드를 개발하고 싶으면 [NVM(Node Version Manager)](https://github.com/coreybutler/nvm-windows/releases) 설치!
 
 ![image](https://user-images.githubusercontent.com/61581807/116206360-ab321680-a779-11eb-9c3d-668cf8925390.png)
+
+
+```bash
+
+$ nvm ls   // 설치되어 있는 nodejs 리스트
+
+$ nvm install 12.14.1 // 다운로드 받고 싶은 버전을 설치
+
+$ nvm use 12.14.1 // 사용할 nodejs의 버전을 선택
+
+```
