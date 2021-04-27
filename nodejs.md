@@ -15,16 +15,29 @@
 
 ```bash
 
-$ nvm ls                  // 설치되어 있는 nodejs 리스트
+$ nvm ls                                // 설치되어 있는 nodejs 리스트
 
-$ nvm install 12.14.1     // 다운로드 받고 싶은 버전을 설치
+$ nvm install 12.14.1                   // 다운로드 받고 싶은 버전을 설치
 
-$ nvm use 12.14.1         // 사용할 nodejs의 버전을 선택
+$ nvm use 12.14.1                       // 사용할 nodejs의 버전을 선택
 
-$ nvm uninstall 12.21.0   // 해당 버전의 nodejs를 삭제
+$ nvm uninstall 12.21.0                 // 해당 버전의 nodejs를 삭제
 
-$ node                    // 위의 과정을 거치면 해당 명령어를 사용할 수 있게 된다.
+$ node                                  // 위의 과정을 거치면 해당 명령어를 사용할 수 있게 된다.
+```
+***
+```bash
+$ npm init -y                           // npm을 프로젝트에서 처음 사용할 때 => package.json 파일 생성
+
+$ npm i                                 // package.json에 기록되어있는 packge를 모두 설치함
+
+$ npm install -D parcel-bundler         // 개발용 의존성 패키지 설치(개발할 때만 필요)
+
+$ npm install lodash                    // 웹브라우저에서 동작할 수도 있는 패키지
+
 
 ```
+
+---
 
 
