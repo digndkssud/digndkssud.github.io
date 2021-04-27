@@ -49,4 +49,10 @@
 ![image](https://user-images.githubusercontent.com/61581807/116193880-ff81ca00-a76a-11eb-90b3-0a0aac2be2c3.png)
 
 
+## 표(Table)
 
+기본 정렬 값은 왼쪽 정렬
+콜론(:)을 통해 조작 가능
+
+
+![image](https://user-images.githubusercontent.com/61581807/116197105-42de3780-a76f-11eb-8e11-019cac32e134.png)
