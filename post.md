@@ -18,7 +18,7 @@
 무궁화 삼천리 화려 강산  
 대한 사람 대한으로 길이 보전하세
 
-# 깅조(Emphasis)
+# 강조(Emphasis)
 
 ![image](https://user-images.githubusercontent.com/61581807/116193272-0f4cde80-a76a-11eb-992a-17846e27dba4.png)
 
@@ -47,7 +47,7 @@
 
 # 블록(block) 코드 강조
 
-![image](https://user-images.githubusercontent.com/61581807/116193589-8edaad80-a76a-11eb-8ca0-0e4230849e1c.png)
+![image](https://user-images.githubusercontent.com/61581807/116193880-ff81ca00-a76a-11eb-90b3-0a0aac2be2c3.png)
 
 
 
