@@ -89,13 +89,30 @@ _이텔릭_
 
 # 링크(Links)
 
+```paintext
 
-![image](https://user-images.githubusercontent.com/61581807/116193372-33a8bb00-a76a-11eb-82a5-8cfc21154f7a.png)
+<a href="https://google.com">GOOGLE<a/>
+
+[GOOGLE](https://google.com)
+
+[NAVER](https://naver.com "NAVER로 이동!")
+
+<a href="https://naver.com" title="NAVER로 이동!" target="_blank">NAVER</a>
+
+```
+# =>
+
+<a href="https://google.com">GOOGLE<a/>
+
+[GOOGLE](https://google.com)
+
+[NAVER](https://naver.com "NAVER로 이동!")
+
+<a href="https://naver.com" title="NAVER로 이동!" target="_blank">NAVER</a>
 
 ---
 
 # 이미지(Image)
-
 
 ![image](https://user-images.githubusercontent.com/61581807/116191963-268acc80-a768-11eb-82ca-e5b2230d83fd.png)
 
@@ -103,15 +120,23 @@ _이텔릭_
 
 # 인용문(BlockQuote - 꺽새를 닫고 시작)
 
-
-
-![image](https://user-images.githubusercontent.com/61581807/116193481-694da400-a76a-11eb-8a02-91fd9a85afaf.png)
+```plaintext
+> 남의 말이나 글에서 직접 또는 간접으로 따온 문장.  
+> (네이버 국어 사전)
+```
+# =>
+> 남의 말이나 글에서 직접 또는 간접으로 따온 문장.  
+> (네이버 국어 사전)
 
 ---
 
 # 인라인(inline) 코드 강조(강조하고 싶은 곳에 grave 입력)
 
-![image](https://user-images.githubusercontent.com/61581807/116192066-48844f00-a768-11eb-8895-9179795dfc34.png)
+```plaintext
+CSS에서 `background` 혹은 `background-image` 속성으로 요소에 배경 이미지를 삽입할 수 있습니다.
+(``으로 표현)
+```
+=> CSS에서 `background` 혹은 `background-image` 속성으로 요소에 배경 이미지를 삽입할 수 있습니다.
 
 ---
 
@@ -128,7 +153,25 @@ _이텔릭_
 콜론(:)을 통해 조작 가능
 
 
-![image](https://user-images.githubusercontent.com/61581807/116197105-42de3780-a76f-11eb-8e11-019cac32e134.png)
+```plaintext
+position 속성   
+
+값 | 의미 | 기본값
+--|:--:|--:
+static | 기준 없음 | o
+relative | 요소 자신 | X
+absolute | 위치 상 부모 요소 | X
+fixed | 뷰포트 | X
+```
+# =>
+값 | 의미 | 기본값
+--|:--:|--:
+static | 기준 없음 | o
+relative | 요소 자신 | X
+absolute | 위치 상 부모 요소 | X
+fixed | 뷰포트 | X
+
+
 
 ---
 
