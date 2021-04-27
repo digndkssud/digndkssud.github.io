@@ -1,4 +1,4 @@
-# 2021-04-27(nodejs, NVM 설치)
+# 2021-04-27(nodejs, NVM 설치, nvm 사용법)
 
 가급적이면 [공식홈페이지](https://nodejs.org/ko/)에서 LTS 다운로드 받는 것이 좋다.
 
