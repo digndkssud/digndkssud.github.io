@@ -15,15 +15,15 @@
 
 ```bash
 
-$ nvm ls   // 설치되어 있는 nodejs 리스트
+$ nvm ls                  // 설치되어 있는 nodejs 리스트
 
-$ nvm install 12.14.1 // 다운로드 받고 싶은 버전을 설치
+$ nvm install 12.14.1     // 다운로드 받고 싶은 버전을 설치
 
-$ nvm use 12.14.1 // 사용할 nodejs의 버전을 선택
+$ nvm use 12.14.1         // 사용할 nodejs의 버전을 선택
 
-$ nvm uninstall 12.21.0 // 해당 버전의 nodejs를 삭제
+$ nvm uninstall 12.21.0   // 해당 버전의 nodejs를 삭제
 
-$ node // 위의 과정을 거치면 해당 명령어를 사용할 수 있게 된다.
+$ node                    // 위의 과정을 거치면 해당 명령어를 사용할 수 있게 된다.
 
 ```
 
