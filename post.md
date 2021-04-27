@@ -88,14 +88,20 @@
 
 # 수평선(Horizontal Rule)
 
-![image](https://user-images.githubusercontent.com/61581807/116199359-fe07d000-a771-11eb-85c1-4757bd45b0be.png)
-
-
-
 ```plantext
+---
 
-dddddddddddddddddddd
+***
+
+___
 
 ```
+# =>
+---
+
+***
+
+___
+
 ![image](https://user-images.githubusercontent.com/61581807/116199359-fe07d000-a771-11eb-85c1-4757bd45b0be.png)
 
