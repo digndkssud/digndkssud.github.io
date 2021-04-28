@@ -1,3 +1,4 @@
+# gitignore(불필요한 파일 무시하기)  
 
 ```plaintext
 해당 프로젝트에
