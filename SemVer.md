@@ -1,3 +1,5 @@
+# 유의적 버전(SemVer)  
+
 ```plaintext
 Major.Minor.Patch
 
