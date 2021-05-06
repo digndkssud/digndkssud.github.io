@@ -1,4 +1,4 @@
-# 함수(복습, 화살표 함수, 즉시 실행 함수)
+# 함수(복습, 화살표 함수, 즉시 실행 함수, 호이스팅)
 
 ```javascript
 function sum(x, y){
@@ -62,6 +62,34 @@ double();
 (function () {
   console.log(a * 2)
 })();
-
-
 ```
+
+# 호이스팅(Hoisting)
+## 함수 선언부가 유효범위 최상단으로 끌어올려지는 현상
+
+```javascript
+
+const a = 7
+
+double()
+
+const double = function(){
+  console.log(a * 2)
+}
+// 위의 같은 상황에는 오류 발생
+```
+
+---
+
+```javascript
+const a = 7
+
+double()
+
+function double(){
+  console.log(a * 2)
+}
+// 오류 발생 없음
+```
+
+
