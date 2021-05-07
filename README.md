@@ -1,6 +1,6 @@
 - 2021-05-06
 
-  - [함수(복습, 화살표 함수, 즉시 실행 함수, 호이스팅, 타이머 함수)](https://digndkssud.github.io/20210506/function)  
+  - [함수(복습, 화살표 함수, 즉시 실행 함수, 호이스팅, 타이머 함수, 콜백)](https://digndkssud.github.io/20210506/function)  
   - [문법(조건문, 반복문)](https://digndkssud.github.io/20210506/Statement)  
   - [변수 유효범위, 형변환](https://digndkssud.github.io/20210506/Variable)
 
