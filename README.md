@@ -1,3 +1,7 @@
+- 2021-05-07
+  - [JS 클래스(생성자함수, this, ES6 Classes, 상속/확장)](https://digndkssud.github.io/20210507/JSClass)
+
+
 - 2021-05-06
 
   - [함수(복습, 화살표 함수, 즉시 실행 함수, 호이스팅, 타이머 함수, 콜백)](https://digndkssud.github.io/20210506/function)  
