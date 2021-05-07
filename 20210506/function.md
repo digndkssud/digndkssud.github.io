@@ -1,4 +1,4 @@
-# 함수(복습, 화살표 함수, 즉시 실행 함수, 호이스팅, 타이머함수)
+# 함수(복습, 화살표 함수, 즉시 실행 함수, 호이스팅, 타이머함수, 콜백)
 
 ```javascript
 function sum(x, y){
@@ -117,5 +117,23 @@ const h1El = document.querySelector('h1')
 h1El.addEventListener('click', () =>{
   clearTimeout(timer)           //clearInterval(timer)도 대체 가능
 })
+
+```
+
+# 콜백(Callback)
+## 함수의 인수로 사용되는 함수
+## setTimeout(함수, 시간)
+
+```javascript
+function timeout(callback) {
+  setTimeout(() => {
+    console.log('Heropy!')
+    cb()
+  }, 3000)
+}
+timeout(() => {
+  console.log('Done')
+})
+
 
 ```
