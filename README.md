@@ -1,3 +1,6 @@
+- 2021-05-10
+  - [JS 데이터(문자, Math, 배열)](https://digndkssud.github.io/20210510/javascriptData_1)
+
 - 2021-05-07
   - [JS 클래스(생성자함수, this, ES6 Classes, 상속/확장)](https://digndkssud.github.io/20210507/JSClass)
 
