@@ -1,9 +1,9 @@
 - 2021-05-11
-  - [JS 데이터(객체)]()
-  - [JS 데이터(구조 분해 할당)]()
-  - [JS 데이터(전개 연산자)]()
-  - [JS 데이터(불변성)]()
-  - [JS 데이터(복사)]()
+  - [JS 데이터(객체 / object)](https://digndkssud.github.io/20210511/object)
+  - [JS 데이터(구조 분해 할당 / Destructuring assignment)](https://digndkssud.github.io/20210511/destructuring_assignment)
+  - [JS 데이터(전개 연산자 / spread)](https://digndkssud.github.io/20210511/spread)
+  - [JS 데이터(불변성)](https://digndkssud.github.io/20210511/immutability)
+  - [JS 데이터(복사)](https://digndkssud.github.io/20210511/copy)
   
 - 2021-05-10
   - [JS 데이터(문자, Math, 배열)](https://digndkssud.github.io/20210510/javascriptData_1)
