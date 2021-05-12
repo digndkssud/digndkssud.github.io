@@ -1,3 +1,9 @@
+- 2021-05-12
+  - [JS 데이터 실습(import/export)](https://digndkssud.github.io/20210512/import_export)
+  - [JS 데이터 실습(Lodash)](https://digndkssud.github.io/20210512/lodash)
+  - [JS 데이터 실습(JSON)](https://digndkssud.github.io/20210512/json)
+  - [JS 데이터 실습(Storage)](https://digndkssud.github.io/20210512/storage)
+  - [JS 데이터 실습(OMDb API)](https://digndkssud.github.io/20210512/omdb)
 - 2021-05-11
   - [JS 데이터(객체/object)](https://digndkssud.github.io/20210511/object)
   - [JS 데이터(구조 분해 할당/Destructuring assignment)](https://digndkssud.github.io/20210511/destructuring_assignment)
