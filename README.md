@@ -1,3 +1,6 @@
+- 2021-05-13
+
+  - [정규표현식(메소드, 플래그(옵션), 패턴(표현))](https://digndkssud.github.io/20210513/regexp)
 - 2021-05-12
   - [JS 데이터 실습(import/export)](https://digndkssud.github.io/20210512/import_export)
   - [JS 데이터 실습(Lodash)](https://digndkssud.github.io/20210512/lodash)
