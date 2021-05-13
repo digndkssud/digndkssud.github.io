@@ -54,6 +54,7 @@ g | 모든 문자 일치(global)
 i | 영어 대소문자를 구분 않고 일치(ignore case)
 m | 여러 줄 일치(multi line)
 
+
 ## 패턴 (표현)
  
  패턴 | 설명
