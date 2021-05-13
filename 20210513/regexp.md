@@ -84,16 +84,16 @@ ab? | b가 없거나 b와 일치
 ```js
 // 생성자 방식
 
-// const regexp = new RegExp('the','g')
+const regexp = new RegExp('the','g')
 // 대소문자 구분 o
-// const regexp = new RegExp('the','gi')
+const regexp = new RegExp('the','gi')
 // 대소문자 구분 x
 
  
 // 리터럴 방식 정규식
-//const regexp = /the/gi 
+const regexp = /the/gi 
 
-// console.log(str.match(/the/gi))
+console.log(str.match(/the/gi))
 
 
 console.log(str.match(/\.$/gi))
@@ -101,14 +101,14 @@ console.log(str.match(/\.$/gi))
 // 본래의 기능에서 벗어나 상태가 바뀌는 문자.
 // 이 경우에는 `의 바로 앞에서 .을 찾기 때문에 null 값
 
-// console.log(str.match(/\.$/gim))
+console.log(str.match(/\.$/gim))
 
 console.log(str.match(/\b\w{2,3}\b/g))
 
-// console.log(str.match(regexp))
-// console.log(regexp.test(str)) 
-// console.log(str)
-// console.log(str.replace(regexp,'AAA'))
+console.log(str.match(regexp))
+console.log(regexp.test(str)) 
+console.log(str)
+console.log(str.replace(regexp,'AAA'))
 
 console.log(str.match(/[가-힣]{1,}/g))
 console.log(str.match(/\bf\w{1,}\b/g))
