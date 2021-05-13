@@ -28,7 +28,7 @@ new RegExp('[a-z]','gi')
 ## 예제 문자
 
 ```js
- const str = `
+const str = `
 010-1234-5678
 digndkssud@gmail.com
 https://www.omdbapi.com/?apikey=7035c60c&s=frozen
