@@ -59,7 +59,7 @@ m | 여러 줄 일치(multi line)
 ^ab | 줄(Line) 시작에 있는 ab와 일치
 ab$ | 줄(Line) 끝에 있는 ab와 일치
 . | 임의의 한 문자와 일치
-a&verbar;b | a 또는 b와 일치
+
 ab? | b가 없거나 b와 일치
 {3} | 3개 연속 일치
 {3,} | 3개 이상 연속  일치
@@ -75,6 +75,8 @@ ab? | b가 없거나 b와 일치
 \s | 공백(Space, Tab 등)에 일치
 (?=) | 앞쪽 일치(Lookahead)
 (?<=) | 뒤쪽 일치(Lookbehind)
+
+
 
 ```js
 // 생성자 방식
