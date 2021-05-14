@@ -24,7 +24,7 @@ user.age = 22
 // Object.assign을 이용한 예
 
 const copyUser = {...user}
-// user가 가지고 있는 값들을 전개하여서 copyUser에 대입한다.
+// user가 가지고 있는 값들을 전개하여서 copyUser에 대입되고 새로운 메모리에 저장이 된다.
 console.log(copyUser === user)
 user.age = 22
 // 전개 연산자를 이용한 예
