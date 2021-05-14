@@ -144,9 +144,10 @@ console.log(c)
 // .filter()
 const a = numbers.map(number => number < 3)
 console.log(a)
-
+// boolean 값을 반환
 const b = numbers.filter(number => number < 3 )
 console.log(b)
+// 해당하는 데이터를 반환
 
 
 // .find() .findIndex()
