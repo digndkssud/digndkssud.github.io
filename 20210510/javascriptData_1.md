@@ -15,7 +15,9 @@ consloe.log(result)
 
 const str = 'Hello world'
 
-console.log(str.indexOf('worl d') !== -1) //
+console.log(str.indexOf('worl d') !== -1) 
+//false
+
 console.log(str.slice(0, 3))// 배열의 0부터 세번째 부분 짤라서 출력
 console.log(str.replace('world','HEROPY'))// 첫번째 인수를 찾아서 두번째 인수의 값으로 교체
 
@@ -97,10 +99,11 @@ console.log(numbers.concat(fruits))
 console.log(numbers)
 console.log(fruits)
 
-// .forEach()
 
+// .forEach()
 fruits.forEach(function(element, index, array){
-  console.log(element, index, array)
+  console.log(element, index, array) 
+  // array는 사용 빈도가 떨어짐
 })
  
 fruits.forEach(function(fruit, i){
@@ -109,7 +112,6 @@ fruits.forEach(function(fruit, i){
 
 
 // .map()
-
 const a = fruits.forEach(function(fruit, index){
   console.log(`${fruit}-${index}`)
 }) 
@@ -138,16 +140,16 @@ const c = fruits.map(function (fruit, index){
 })
 console.log(c)
 
-// .filter()
 
+// .filter()
 const a = numbers.map(number => number < 3)
 console.log(a)
 
 const b = numbers.filter(number => number < 3 )
 console.log(b)
 
-// .find() .findIndex()
 
+// .find() .findIndex()
 const a = fruits.find(fruit => {
   return /^C/.test(fruit)
   // ^은 시작의 의미 
@@ -160,8 +162,8 @@ const b = fruits.findIndex(fruit => {
 console.log(b) // 2를 출력
 
 
-// .includes()
 
+// .includes()
 const a = numbers.includes(3) // true
 console.log(a)
 
@@ -171,7 +173,6 @@ console.log(b)
 
 // .push() .unshift()
 // 원본 수정됨 주의!!!
-
 numbers.push(5) // 배열 맨 뒤에 데이터 삽입
 console.log(numbers)
 
@@ -181,7 +182,6 @@ console.log(numbers)
 
 // .reverse()
 // 원본 수정됨 주의!!
-
 numbers.reverse()
 fruits.reverse()
 
@@ -191,10 +191,10 @@ console.log(fruits)
 
 // .splice()
 // 원본 수정됨 주의!!
-
 numbers.splice(2, 2) 
 // 인덱스 번호 2번에서 2개의 데이터를 지운다.
 // 출력되는 값은 [1, 2]
+
 
 numbers.splice(2, 0 , 999)
 // 인덱스 번호 2번에서 0개의 데이터를 지운 후
