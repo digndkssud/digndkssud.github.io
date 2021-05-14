@@ -1,4 +1,6 @@
 # 얕은 복사(Shallow copy)
+### 객체만 복사하여 새 객체를 생성한다.
+### 해당 메모리 주소의 값이 변경되면 원본 객체 및 복사 객체의 인스턴스 변수 값은 같이 변경된다.
 
 ```javascript
 const user = {
@@ -36,7 +38,9 @@ console.log('copyUser',copyUser)
 ```
 
 #  깊은 복사(Deep copy)
-### 새로운 메모리로 복사
+### 새로운 메모리에 담고 인스턴스 변수까지 복사
+### 전부를 복사하여 새 주소에 담기 때문에 참조를 공유하지 않는다.
+
 ```javascript
 $ npm i lodash
 
