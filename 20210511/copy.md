@@ -18,6 +18,7 @@ console.log('------')
 // 이 경우에는 user의 age 뿐만 아니라 copyUser 부분의 age도 바뀌어버린다.
 
 const copyUser = Object.assign({},user)
+// user가 가지고 있는 값을 새로운 메모리에 올린다.
 console.log(copyUser === user)
 user.age = 22
 // Object.assign을 이용한 예
