@@ -1,3 +1,6 @@
+- 2021-05-17
+  - [TS 데이터(primitive, boolean, number, string, symbol,null & undefined, object)](https://digndkssud.github.io/20210517/typeAnnotation)
+  
 - 2021-05-13
 
   - [정규표현식(메소드, 플래그(옵션), 패턴(표현))](https://digndkssud.github.io/20210513/regexp)
