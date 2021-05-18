@@ -10,14 +10,14 @@ let a: string
 
 a = "Mark"
 
-a = 39
+a = 39 // error
 
 function hello(b: number){
 
 }
 
 hello(39)
-hello('Mark')
+hello('Mark') // error
 ```
 
 # Primitive Type
