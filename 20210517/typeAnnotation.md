@@ -1,7 +1,7 @@
 # Annotation
 
 
-npx tsc
+npx tsc  
 node test.js
 
 
