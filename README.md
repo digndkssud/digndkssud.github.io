@@ -1,4 +1,12 @@
+- 2021-05-19
+
+  - [TS System(Structural Type System VS Nomal Type System)](https://digndkssud.github.io/20210519/typesystem)
+  - [TS System(Type Compatibility)](https://digndkssud.github.io/20210519/typeCompatibility)
+  - [TS System(Type Alias)](https://digndkssud.github.io/20210519/type_Alias)
+
+
 - 2021-05-18
+- 
   - [TS 데이터(Array, Tuple, Any, Unknown, Never, Void)](https://digndkssud.github.io/20210518/typescript_Essentials)
 
 - 2021-05-17
