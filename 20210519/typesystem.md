@@ -1,4 +1,5 @@
-# structural type system - 구조가 같으면, 같은 타입이다.
+# structural type system 
+## 구조가 같으면, 같은 타입이다.
 
 ```ts
 interface IPerson {
@@ -21,7 +22,8 @@ personType = personInterface;
 
 ```
 
-# nominal type system - 구조가 같아도 이름이 다르면, 다른 타입이다.
+# nominal type system 
+## 구조가 같아도 이름이 다르면, 다른 타입이다.
 
 ```ts
 type PersonID =string & { readonly brand: unique symbol };
