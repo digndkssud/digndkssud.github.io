@@ -1,6 +1,6 @@
 - 2021-05-19
 
-  - [TS System(Structural Type System VS Nomal Type System)](https://digndkssud.github.io/20210519/typesystem)
+  - [TS System(Structural Type System Vs Nomal Type System)](https://digndkssud.github.io/20210519/typesystem)
   - [TS System(Type Compatibility)](https://digndkssud.github.io/20210519/typeCompatibility)
   - [TS System(Type Alias)](https://digndkssud.github.io/20210519/type_Alias)
 
