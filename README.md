@@ -1,3 +1,6 @@
+- 2021-05-20
+
+  - [TS Compiler(Compulation Context、tsconfig schma、compileOnSave、extends、files、include、exclude、compileOptions)](https://digndkssud.github.io/20210520/typeScript)
 - 2021-05-19
 
   - [TS System(Structural Type System Vs Nomal Type System)](https://digndkssud.github.io/20210519/typesystem)
