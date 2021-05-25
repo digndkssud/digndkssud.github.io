@@ -1,3 +1,7 @@
+- 2021-05-25
+
+  - [SCSS(재활용(Mixins),반복문, 함수)](https://digndkssud.github.io/20210525/scss)
+
 - 2021-05-24
 
   - [SCSS(주석, 중첩, 상위 선택자 참조, 중첩된 속성, 변수, 산술 연산)](https://digndkssud.github.io/20210524/scss)
