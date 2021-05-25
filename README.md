@@ -1,6 +1,6 @@
 - 2021-05-25
 
-  - [SCSS(재활용(Mixins),반복문, 함수)](https://digndkssud.github.io/20210525/scss)
+  - [SCSS(재활용(Mixins), 반복문, 함수)](https://digndkssud.github.io/20210525/scss)
 
 - 2021-05-24
 
