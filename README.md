@@ -1,5 +1,9 @@
 - 2021-05-25
 
+  - [SCSS(색상 내장 함수, )](https://digndkssud.github.io/20210526/scss)
+
+- 2021-05-25
+
   - [SCSS(재활용(Mixins), 반복문, 함수)](https://digndkssud.github.io/20210525/scss)
 
 - 2021-05-24
