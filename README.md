@@ -1,6 +1,6 @@
 - 2021-05-26
 
-  - [SCSS(색상 내장 함수, )](https://digndkssud.github.io/20210526/scss)
+  - [SCSS(색상 내장 함수, 가져오기 )](https://digndkssud.github.io/20210526/scss)
 
 - 2021-05-25
 
