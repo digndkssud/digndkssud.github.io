@@ -1,5 +1,10 @@
 - 2021-05-26
 
+  - [BOOTSTRAP(사용법, 버튼과 버튼 그룹)](https://digndkssud.github.io/20210527/bootstrap)
+  - [SCSS(색상 내장 함수, 가져오기 )](https://digndkssud.github.io/20210527/scss)
+
+- 2021-05-26
+
   - [SCSS(색상 내장 함수, 가져오기 )](https://digndkssud.github.io/20210526/scss)
 
 - 2021-05-25
