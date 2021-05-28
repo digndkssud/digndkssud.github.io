@@ -1,6 +1,6 @@
 - 2021-05-28
 
-  -[BOOTSTRAP(드롭다운과 리스트、양식、모달、툴팁)](https://digndkssud.github.io/20210528/bootstrap)
+  - [BOOTSTRAP(드롭다운과 리스트、양식、모달、툴팁)](https://digndkssud.github.io/20210528/bootstrap)
   
 - 2021-05-27
 
