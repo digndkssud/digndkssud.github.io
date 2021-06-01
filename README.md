@@ -1,3 +1,7 @@
+- 2021-06-01
+
+  - [BUNDLER-PARCEL(정적파일연결, autoprefixer)](https://digndkssud.github.io/20210601/parcel)
+  
 - 2021-05-31
 
   - [BOOTSTRAP(NPM 프로젝트 생성, 테마 색상 커스터마이징, 성능 최적화(트리 쉐이킹) )](https://digndkssud.github.io/20210531/bootstrap)
