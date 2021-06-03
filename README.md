@@ -1,3 +1,7 @@
+- 2021-06-02
+
+  - [BUNDLER-PARCEL(babel, CLI)](https://digndkssud.github.io/20210602/parcel)
+  
 - 2021-06-01
 
   - [BUNDLER-PARCEL(정적파일연결, autoprefixer)](https://digndkssud.github.io/20210601/parcel)
