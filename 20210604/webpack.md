@@ -122,3 +122,18 @@ module.exports = {
 $ npm i -D babel-loader
 
 ```
+#  NPX, Degit
+
+```js
+
+dir
+
+cd : 진입하기
+cd .. : 나오기
+
+npx degit digndkssud/digndkssud-WEBPACK-TEMPLATE-BASIC webpack-template-basic  // node.js에서 사용가능
+
+code . -r: 현재 vs code 창에 지정한 디렉토리를 열어준다.
+
+
+```
