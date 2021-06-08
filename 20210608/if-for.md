@@ -7,7 +7,6 @@
   {% raw %}
   {{ count }}
   {% endraw %}
-    
   </h1>
 </template>
 
@@ -42,7 +41,9 @@ export default {
 ```vue
 <template>
   <h1 @click="increase">
-    {{ count }}
+      {% raw %}
+      {{ count }}
+      {% endraw %}
   </h1>
   // 'v-'으로 시작하는 것들을 디렉티브(Directive)
   // if문
