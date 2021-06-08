@@ -1,3 +1,9 @@
+- 2021-06-08
+
+  - [Vuejs (조건문과 반복문）](https://digndkssud.github.io/20210608/if-for)
+   
+  - [Vuejs (ESLint 구성, 선언적 렌더링과 입력 핸들링）](https://digndkssud.github.io/20210608/eslint)
+
 - 2021-06-07
 
   - [Vuejs (Vue CLI、 Vetur、Vue Webpack Template）](https://digndkssud.github.io/20210607/vuejs)
