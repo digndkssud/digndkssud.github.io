@@ -4,7 +4,10 @@
 <template>
 // h1을 클릭하면 increase라는 핸들러를 동작시킨다.
   <h1 @click="increase"> 
-    {{ count }}
+  {% raw %}
+  {{ count }}
+  {% endraw %}
+    
   </h1>
 </template>
 
