@@ -56,7 +56,9 @@ export default {
     <li
       v-for="fruit in fruits"
       :key="fruit">
-      {{ fruit }}
+        {% raw %}
+        {{ fruit }}
+        {% endraw %}
     </li>
   </ul>
 </template>
@@ -74,7 +76,9 @@ App.vue에 사용하고자하는 components에 소속되어있는 vue를 import 
         v-for="fruit in fruits"
         :key="fruit"
         :name="fruit">
+        {% raw %}
         {{ fruit }}
+        {% endraw %}
     </hello>
   </ul>
 </template>
