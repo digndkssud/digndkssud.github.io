@@ -7,7 +7,9 @@
   <h1
     v-once
     @click="add">
+    {% raw %}
     {{ msg }}
+    {% endraw %}
   </h1>
 </template>
 
@@ -35,7 +37,9 @@ export default {
 ```vue
 <template>
   <h1>
+    {% raw %}
     {{ msg }}
+    {% endraw %}
   </h1>
   <h1 v-html="msg"></h1>
 </template>
@@ -65,7 +69,9 @@ export default {
   <h1 
     :[attr]="'active'"
     @[event]="add">
-    {{ msg }}  
+    {% raw %}
+    {{ msg }}
+    {% endraw %}
   </h1>
 </template>
 
