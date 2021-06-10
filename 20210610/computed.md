@@ -9,7 +9,10 @@
       <li
         v-for="fruit in fruits"
         :key="fruit">
+        
+        {% raw %}
         {{ fruit }}
+        {% endraw %}
       </li>
     </ul>
   </section>
@@ -19,7 +22,9 @@
       <li
         v-for="fruit in reverseFruits"
         :key="fruit">
+        {% raw %}
         {{ fruit }}
+        {% endraw %}
       </li>
     </ul>
   </section>
