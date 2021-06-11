@@ -1,6 +1,12 @@
 - 2021-06-10
 
-  - [Vuejs (Computed 캐싱）](https://digndkssud.github.io/20210610/computed)
+  - [Vuejs (Computed 캐싱、Getter&Setter、Watch）](https://digndkssud.github.io/20210611/computed)
+  
+  - [Vuejs (클래스와 스타일 바인딩）](https://digndkssud.github.io/20210611/class)
+  
+- 2021-06-10
+
+  - [Vuejs (Computed）](https://digndkssud.github.io/20210610/computed)
   
   - [Vuejs (인스턴스와 라이프사이클）](https://digndkssud.github.io/20210610/instance)
    
