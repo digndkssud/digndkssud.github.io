@@ -10,7 +10,7 @@
   <h1 
     :class="{ active: isActive }"
     @click="activate">
-    Hello?!({{ isActive }})
+    Hello?!({% raw %}{{ isActive }}{% endraw %})
   </h1>
 </template>
 
