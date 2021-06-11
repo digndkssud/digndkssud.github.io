@@ -2,10 +2,10 @@
 
 ```vue
 <template>
-  <h1>{{ reversedMessage }}</h1>
-  <h1>{{ reversedMessage }}</h1>
-  <h1>{{ reversedMessage }}</h1>
-  <h1>{{ reversedMessage }}</h1>
+  <h1>{% raw %}{{ reversedMessage }}{% endraw %}</h1>
+  <h1>{% raw %}{{ reversedMessage }}{% endraw %}</h1>
+  <h1>{% raw %}{{ reversedMessage }}{% endraw %}</h1>
+  <h1>{% raw %}{{ reversedMessage }}{% endraw %}</h1>
 </template>
 
 <script>
@@ -38,10 +38,10 @@ export default {
   <button @click="add">
     ADD
   </button>
-  <h1>{{ reversedMessage }}</h1>
-  <h1>{{ reversedMessage }}</h1>
-  <h1>{{ reversedMessage }}</h1>
-  <h1>{{ reversedMessage }}</h1>
+  <h1>{% raw %}{{ reversedMessage }}{% endraw %}</h1>
+  <h1>{% raw %}{{ reversedMessage }}{% endraw %}</h1>
+  <h1>{% raw %}{{ reversedMessage }}{% endraw %}</h1>
+  <h1>{% raw %}{{ reversedMessage }}{% endraw %}</h1>
 </template>
 
 <script>
@@ -83,10 +83,10 @@ export default {
 ```vue
 <template>
   <h1 @click="changeMessage">
-    {{ msg }}
+    {% raw %}{{ msg }}{% endraw %}
   </h1>
   <h1 @click="changeMessage">
-    {{ reversedMessage }}
+    {% raw %}{{ reversedMessage }}{% endraw %}
   </h1>
 </template>
 
