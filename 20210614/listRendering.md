@@ -12,7 +12,7 @@ $ npm i -D shortid
     <li
       v-for="{ id,name } in newFruits"
       :key="id">
-      {{ name }}-{{ id }}
+      ({% raw %}{{ name }}-{{ id }}{% endraw %})
     </li>
   </ul>
 </template>
