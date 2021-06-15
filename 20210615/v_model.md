@@ -4,7 +4,7 @@
 
 ```vue
 <template>
-  <h1>{{ msg1 }}</h1>
+  <h1>{% raw %}{{ msg1 }}{% endraw %}</h1>
   <input
     type="text"
     :value="msg1"
@@ -12,7 +12,7 @@
 
     
   <!-- v-model의 경우 한글 지원이 한 박자 느리다 -->
-  <h1>{{ msg2 }}</h1>
+  <h1>{% raw %}{{ msg2 }}{% endraw %}</h1>
   <input
     type="text"
     v-model="msg2 " />
