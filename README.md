@@ -1,4 +1,15 @@
-- 2021-06-11
+- 2021-06-15
+
+  - [Vuejs (이벤트 핸들링）](https://digndkssud.github.io/20210615/eventHandling1)
+  
+  - [Vuejs (이벤트 핸들링 - 이벤트 수식어）](https://digndkssud.github.io/20210615/eventHandling2)
+
+  - [Vuejs (이벤트 핸들링 - 키 수식어）](https://digndkssud.github.io/20210615/eventHandling3)
+
+  - [Vuejs (v-model / 폼 입력 바인딩）](https://digndkssud.github.io/20210615/v_model)
+
+
+- 2021-06-14
 
   - [Vuejs (조건문 렌더링）](https://digndkssud.github.io/20210614/if-show)
   
