@@ -1,3 +1,8 @@
+- 2021-06-16
+
+  - [Vuejs (컴포넌트 - 기초）](https://digndkssud.github.io/20210615/components1)
+  
+  - [Vuejs (v-model 수식어）](https://digndkssud.github.io/20210615/v-model)
 - 2021-06-15
 
   - [Vuejs (이벤트 핸들링）](https://digndkssud.github.io/20210615/eventHandling1)
