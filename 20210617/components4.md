@@ -17,7 +17,7 @@ computed를 사용하여 콜백을 이용해줘야한다.
   <button @click="message = 'Good?'">
     Click
   </button>
-  <h1>App: {{ message }}</h1>
+  <h1>App: {% raw %}{{ message }}{% endraw %} </h1> 
   <Parent />
 </template>
 
@@ -64,7 +64,7 @@ export default {
 ```vue
 <template>
   <div>
-    Child: {{ msg.value }}
+    Child: {% raw %}{{ msg.value }}{% endraw %}
   </div>
 </template>
 
