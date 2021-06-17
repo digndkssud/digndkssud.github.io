@@ -1,8 +1,20 @@
 - 2021-06-16
 
-  - [Vuejs (컴포넌트 - 기초）](https://digndkssud.github.io/20210615/components1)
+  - [Vuejs (컴포넌트 - 상속）](https://digndkssud.github.io/20210617/components1)
   
-  - [Vuejs (v-model 수식어）](https://digndkssud.github.io/20210615/v_model)
+  - [Vuejs (컴포넌트 - Emit）](https://digndkssud.github.io/20210617/components2)
+  
+  - [Vuejs (컴포넌트 - Slot）](https://digndkssud.github.io/20210617/components3)
+  
+  - [Vuejs (컴포넌트 - provide, inject）](https://digndkssud.github.io/20210617/components4)
+
+- 2021-06-16
+
+  - [Vuejs (컴포넌트 - 기초）](https://digndkssud.github.io/20210616/components1)
+  
+  - [Vuejs (v-model 수식어）](https://digndkssud.github.io/20210616/v_model)
+
+
 - 2021-06-15
 
   - [Vuejs (이벤트 핸들링）](https://digndkssud.github.io/20210615/eventHandling1)
