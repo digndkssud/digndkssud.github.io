@@ -1,3 +1,8 @@
+- 2021-06-24
+
+  - [Vuejs (컴포넌트 - 비동기 처리 ）](https://digndkssud.github.io/20210624/async)
+
+
 - 2021-06-18
 
   - [Vuejs (컴포넌트 - Refs ）](https://digndkssud.github.io/20210618/components)
